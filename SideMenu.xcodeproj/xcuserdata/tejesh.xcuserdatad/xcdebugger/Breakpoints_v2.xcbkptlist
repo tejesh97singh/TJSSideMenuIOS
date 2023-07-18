@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21DF7D7D-5746-4B6D-8935-2287973E0ED2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7E58423-A028-49DA-806C-B6C87ED86331"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuMain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "initView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BF0E50-CFA9-4662-ADCE-1EA97FBA91DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuMainVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E130F46-B708-4DAA-BCB6-783A9F3165B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenu/SideMenuMainVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "menuItemTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E130F46-B708-4DAA-BCB6-783A9F3165B2 - 50ef6b66f26b1ccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuMainVC.menuItemTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejesh/Desktop/Practice%20Projects/SideMenu/SideMenu/SideMenuMainVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "2E130F46-B708-4DAA-BCB6-783A9F3165B2 - 50ef6b66f26b1caf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuMainVC.menuItemTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejesh/Desktop/Practice%20Projects/SideMenu/SideMenu/SideMenuMainVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2E130F46-B708-4DAA-BCB6-783A9F3165B2 - 50ef6b66f26b1caf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenu.SideMenuMainVC.menuItemTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "SideMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejesh/Desktop/Practice%20Projects/SideMenu/SideMenu/SideMenuMainVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
